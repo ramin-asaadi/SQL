@@ -1,5 +1,6 @@
-# Data Anaylsis using T-SQL
-Developing recommendation for a company to maximize its revenue, the following question must be answered:
+## Data Anaylsis using T-SQL
+
+### Developing recommendation for a company to maximize its revenue, the following question must be answered:
 
 - How do the price points of Nike and Adidas products differ?
 - Is there a difference in the amount of discount offered between the brands?
