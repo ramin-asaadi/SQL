@@ -1,1 +1,1 @@
-## Using SQL to manipulate and retrieve data 
+## Using SQL to wrangle and retrieve data 
